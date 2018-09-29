@@ -1,0 +1,7 @@
+Implicit Euler for Heat Equation
+
+Uses Lapack lib.
+
+To compile use:
+
+gfortran -llapack implicit_euler.f90 -o implicit_euler
